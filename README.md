@@ -1,6 +1,10 @@
-Ateneo de Davao University - School of Business and Governance
+<h1 align="center">
+  <br>
+  <a href="https://github.com/amitmerchant1990/pomolectron"><img src="https://raw.githubusercontent.com/amitmerchant1990/pomolectron/master/app/res/pomolectron-transparent.png" alt="Pomolectron" width="400"></a>
+  <br>
+</h1>
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+<h4 align="center">A <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique" target="_blank">pomodoro</a> app for your menubar/tray.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/pomolectron">
@@ -18,61 +22,79 @@ Ateneo de Davao University - School of Business and Governance
   
 </p>
 
-============
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IgorAntun/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+|  macOS            |  Windows |
+|---------------------|----------------------|
+|![pomolectron-macos](https://cloud.githubusercontent.com/assets/3647841/24491376/9250a1de-1544-11e7-86ef-82b77c006daa.png) | ![](https://raw.githubusercontent.com/amitmerchant1990/pomolectron/master/app/res/pomodoro.PNG) |
 
-This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
+## Key Features
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+* Pomodoro, Short break and Long break timers
+* Notifies via a system notification when time is up
+* Lives in a tray/menubar
+* Cross platform
+  - Windows, macOS and Linux ready.
 
----
-## Buy me a coffee
-
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)
-
-<a href="https://www.buymeacoffee.com/igorantun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
----
-
-## Features
-- Material Design
-- Emoji support
-- User @mentioning
-- Private messaging
-- Message deleting (for admins)
-- Ability to kick/ban users (for admins)
-- See other user's IPs (for admins)
-- Other awesome features yet to be implemented
-
-![User Features](http://i.imgur.com/WbF1fi2.png)
-
-![Admin Features](http://i.imgur.com/xQFaadt.png)
+<a href="https://www.patreon.com/amitmerchant">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
 
 
-#### There are 3 admin levels:
-- **Helper:** Can delete chat messages
-- **Moderator:** The above plus the ability to kick and ban users
-- **Administrator:** All the above plus send global alerts and promote/demote users
+## Dark Mode
 
----
+<div align="center"><img src="app/res/pomolectron-dark.png"></div>
+  
+## How To Use
 
-## Setup
-Clone this repo to your desktop and run `npm install` to install all the dependencies.
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-You might want to look into `config.json` to make change the port you want to use and set up a SSL certificate.
+```bash
+# Clone this repository
+$ git clone https://github.com/amitmerchant1990/pomolectron
 
----
+# Go into the repository
+$ cd pomolectron
 
-## Usage
-After you clone this repo to your desktop, go to its root directory and run `npm install` to install its dependencies.
+# Install dependencies
+$ npm install
 
-Once the dependencies are installed, you can run  `npm start` to start the application. You will then be able to access it at localhost:3000
+# Run the app
+$ npm start
+```
 
-To give yourself administrator permissions on the chat, you will have to type `/role [your-name]` in the app console.
+On macOS, you can install Pomolectron via [cask](http://caskroom.io/).
 
----
+```bash
+$ brew install --cask pomolectron 
+```
+
+On Windows, you can install Pomolectron via [chocolatey](https://chocolatey.org) as well.
+
+```bash
+C:\> choco install pomolectron
+```
+
+Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+## Download
+
+You can [download](https://github.com/amitmerchant1990/pomolectron/releases/tag/v1.1.0) the latest installable version of Pomolectron for Windows, Linux and macOS.
+
+You can also get the [Windows binaries](http://www.softpedia.com/get/Others/Miscellaneous/Pomolectron.shtml) from Softpedia.
+
+
+## News
+Pomolectron was [trending](https://news.ycombinator.com/item?id=13878898) on the Hacker News and on [GitHub](https://raw.githubusercontent.com/amitmerchant1990/test/master/trending.JPG) during the day of its launch.
+
+## You may also like..
+
+- [Markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Markdown Editor desktop app
 
 ## License
->You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
 
-This project is licensed under the terms of the **MIT** license.
+MIT
+
+---
+
+> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
+> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
