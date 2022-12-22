@@ -1,23 +1,43 @@
 <h1 align="center">
   <br>
 	Ateneo de Davao University - School of Business and Governance
-  <br>
 </h1>
 
-|------|------|
-|![addu-logo]([https://cloud.githubusercontent.com/assets/3647841/24491376/9250a1de-1544-11e7-86ef-82b77c006daa.png](http://www.addu.edu.ph/wp-content/uploads/2015/05/00-OFFICIAL-AdDU-Seal-500px-300x300.jpg)) | ![addusbg-logo]([https://raw.githubusercontent.com/amitmerchant1990/pomolectron/master/app/res/pomodoro.PNG](http://sbg.addu.edu.ph/wp-content/uploads/2020/05/download_sbg_logo_condensed_fullcolor.jpg)) |
+<h3 align="center">
+	First Year Project Management System
+  <br>
+</h3>
 
-## Key Features
+<div align="center">
+	<a href="http://sbg.addu.edu.ph">
+		<img src="http://sbg.addu.edu.ph/wp-content/uploads/2020/06/download_sbg_ADDU_logo_condensed_fullcolor.jpg" width="450" height="250">
+	</a>
+</div>
 
-* Pomodoro, Short break and Long break timers
-* Notifies via a system notification when time is up
-* Lives in a tray/menubar
-* Cross platform
-  - Windows, macOS and Linux ready.
+## About the System
 
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+The Ateneo de Davao University - School of Business and Governance First Year Project Management System is a system for project management developed for students and supervisors. Through the system, students are able to register and login for project management; with the goal of engaging with their groupmates in meetings and chats for a project outcome. Through the system, the supervisor has the ability to view the meetings of the said students and is able to provide feedback for the students to see. The system also allows for the supervisor to give evaluations to the performance of the students, which is visible with the help of the system.
+
+## Frameworks Used
+* <p> <a href="https://laravel.com">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" width="50" height="50">
+	</a>
+	&nbsp; Laravel
+* <a href="breeze.github.io/doc-js/">
+		<img src="https://avatars.githubusercontent.com/u/6954821?s=280&v=4" width="50" height="50">
+	</a>
+	&nbsp; Breeze
+* <a href="https://reactjs.org">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50" height="50">
+	</a>
+	&nbsp; React
+* <a href="https://www.mysql.com">
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="50" height="50">
+	</a>
+	&nbsp; MySQL
+</p>
+
+
 
 
 ## Dark Mode
