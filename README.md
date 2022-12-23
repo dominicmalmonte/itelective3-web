@@ -10,7 +10,7 @@
 
 <div align="center">
 	<a href="http://sbg.addu.edu.ph">
-		<img src="http://sbg.addu.edu.ph/wp-content/uploads/2020/06/download_sbg_ADDU_logo_condensed_fullcolor.jpg" width="450" height="250">
+		<img src="http://sbg.addu.edu.ph/wp-content/uploads/2020/06/download_sbg_ADDU_logo_condensed_fullcolor.jpg" width="450" height="150">
 	</a>
 </div>
 
