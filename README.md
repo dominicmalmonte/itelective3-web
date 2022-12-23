@@ -43,3 +43,12 @@ The system utilized four frameworks to complete the system. The systems are list
 </p>
 
 ## Subsystems
+
+The First Year Project Management System includes various subsystems. The subsystems are listed below:
+
+* Student Basic Information
+* Meeting Attendance
+* Grading and Evaluation System
+* Group Chats and Conversations
+
+## Visit our [website](http://sbg.addu.edu.ph)
